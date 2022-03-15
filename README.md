@@ -1,21 +1,18 @@
-### Hi there, I'm Ismoil Shokirov 👋
+### Hi there, I'm Salimbek Karimbayev 👋
 
-- 🔭 I’m currently working at "EPAM Systems" as a Software Engineer
-- 👨‍🎓 Bachelor's degree in Computer Science
-- ⚡ Fun fact: I love swimming 🏊
+- 🔭 I’m currently working at "Avtech" as a Software Engineer
+- ⚡ Fun fact: I love swimming, driving car 🏊
 <!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
 
-[website]: https://shokirov.uz
-[youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
-[instagram]: https://www.instagram.com/ismoil.793
-[linkedin]: https://www.linkedin.com/in/ismoil-shokirov
+[website]: 
+[instagram]: https://www.instagram.com/karimbayev.s/
+[linkedin]: https://www.linkedin.com/in/salimbek
 
 ### Connect with me:
 
-[<img align="left" alt="ismoil793.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ismoil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ismoil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ismoil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Salimbek21.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Salimbek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Salimbek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
