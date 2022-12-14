@@ -1,7 +1,7 @@
 ### Hi there, I'm Salimbek Karimbayev 👋
 
 - 🔭 I’m currently working at "Avtech" as a Software Engineer
-- ⚡ Fun fact: I love swimming, driving car 🏊
+
 <!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
 
 [website]: 
