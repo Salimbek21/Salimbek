@@ -1,7 +1,5 @@
 ### Hi there, I'm Salimbek Karimbayev 👋
 
-- 🔭 I’m currently working at "Avtech" as a Software Engineer
-
 <!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
 
 [website]: 
